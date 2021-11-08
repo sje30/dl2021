@@ -1,4 +1,4 @@
-# Deep learning 2020 module
+# Deep learning 2021 module
 
 
 # Main text
