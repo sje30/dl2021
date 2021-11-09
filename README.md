@@ -21,6 +21,8 @@ and for Q&A.  All meetings will be on Teams and recorded.
 ## DL Live Lecture 1
 <2021-11-10 Wed 09:00-10:00>
 
+[Slides](slides/intro.pdf)
+
 ## DL Live Lecture 2
 <2021-11-12 Fri 09:00-10:00>
 
@@ -43,4 +45,5 @@ and for Q&A.  All meetings will be on Teams and recorded.
 
 ## DL Live Lecture 8
 <2021-12-03 Fri 09:00-10:00>
+
 
