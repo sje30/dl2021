@@ -17,6 +17,9 @@ used to review past week's topics and highlight coming week's
 material (recorded).  Fridays lectures will be Q&A sessions of
 material presented (and will not be recorded).
 
+## Panopto
+
+Lecture videos are found on [panopto](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=9b86eca2-9001-47e0-91c1-adb00100d53f).
 
 ## DL Live Lecture 1 (week one)
 <2021-11-10 Wed 09:00-10:00>
@@ -27,6 +30,8 @@ P2: [Introductory neuroscience.  Simple models.](slides/neuro101.pdf)
 
 P3: [Perceptron.](slides/perceptron.pdf)
 
+[L is a live lecture; P is a recorded lecture; both to be found on Panopto;
+live lectures uploaded after the lecture.]
 
 ## DL Live Lecture 2
 <2021-11-12 Fri 09:00-10:00>
