@@ -22,15 +22,15 @@ material presented (and will not be recorded).
 Lecture videos are found on [panopto](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=9b86eca2-9001-47e0-91c1-adb00100d53f).
 
 [pre-recorded](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=1f01e085-4e06-439b-a0a6-addb013e09e2)
-
+https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=1f01e085-4e06-439b-a0a6-addb013e09e2
 ## DL Live Lecture 1 (week one)
 <2021-11-10 Wed 09:00-10:00>
 
 L1: [Overview of course](slides/intro.pdf)
 
-P2: [Introductory neuroscience.  Simple models.](slides/neuro101.pdf)
+[P2](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=784d3c12-4666-4115-aae7-addb013e475d): [Introductory neuroscience.  Simple models.](slides/neuro101.pdf)
 
-P3: [Perceptron.](slides/perceptron.pdf)
+[P3](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=539606db-72be-44bf-94ab-addb013e47e8): [Perceptron.](slides/perceptron.pdf)
 
 [L is a live lecture; P is a recorded lecture; both to be found on Panopto;
 live lectures uploaded after the lecture.]
