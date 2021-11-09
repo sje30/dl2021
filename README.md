@@ -21,7 +21,12 @@ and for Q&A.  All meetings will be on Teams and recorded.
 ## DL Live Lecture 1
 <2021-11-10 Wed 09:00-10:00>
 
-[Slides](slides/intro.pdf)
+L1: [Overview of course](slides/intro.pdf)
+
+P2: [Introductory neuroscience.  Simple models.](slides/neuro101.pdf)
+
+P3: [Perceptron.](slides/perceptron.pdf)
+
 
 ## DL Live Lecture 2
 <2021-11-12 Fri 09:00-10:00>
