@@ -35,7 +35,8 @@ Lecture videos are found on [panopto](https://cambridgelectures.cloud.panopto.eu
 live lectures uploaded after the lecture.]
 
 ## DL Live Lecture 2
-<2021-11-12 Fri 09:00-10:00>
+<2021-11-12 Fri 09:00-10:00>  Topics covered: transfer functions,
+gradient descent.
 
 ## DL Live Lecture 3 (week two)
 <2021-11-17 Wed 09:00-10:00>
