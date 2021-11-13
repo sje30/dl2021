@@ -25,7 +25,7 @@ Lecture videos are found on [panopto](https://cambridgelectures.cloud.panopto.eu
 ## DL Live Lecture 1 (week one)
 <2021-11-10 Wed 09:00-10:00>
 
-L1: [Overview of course](slides/intro.pdf)
+[L1](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=36c25a8b-c308-42bf-9121-addf014795d1): [Overview of course](slides/intro.pdf)
 
 [P2](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=784d3c12-4666-4115-aae7-addb013e475d): [Introductory neuroscience.  Simple models.](slides/neuro101.pdf)
 
