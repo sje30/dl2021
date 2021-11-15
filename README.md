@@ -41,9 +41,22 @@ gradient descent.
 ## DL Live Lecture 3 (week two)
 <2021-11-17 Wed 09:00-10:00>
 
+L2: Code run throughs.  
+Recap of perceptron rule.  [code/perceptron](code/perceptron).
+
+[P4](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc780ebb-7102-4f34-b5a2-ac690168b6b2): [Backprop](slides/backprop.pdf)
+
+[P5](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=173a5547-880b-4455-9d10-ac6a01572081):
+Backprop applications -- slides as before.
+
+[P6a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2c6d0cd4-edc9-4980-9c31-ac63015ec99b): Back prop derivation (part one).  [backprop.pdf](backprop.pdf)
+
+[P6b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1f579de0-8eb8-428a-a626-ac630166eed8): Back prop derivation (part two).  [backprop.pdf](backprop.pdf)
+
 ## DL Live Lecture 4
 <2021-11-19 Fri 09:00-10:00>
 
+Short announcement by Soo.
 
 ## DL Live Lecture 5 (week three)
 <2021-11-24 Wed 09:00-10:00>
