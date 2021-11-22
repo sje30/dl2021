@@ -78,7 +78,7 @@ L3: code run through (backprop, keras)
 
 
 [P8a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f0af10b-c3c9-41ad-80d5-ac740158bd37): [Tips and tricks / recent advances](slides/tips.pdf)
-
+<br>
 [P8b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a665da6f-da9e-4d2f-9c64-ac74016cf442):
 Finite differences and automatic differentiation.  [code sample](code/autograd/finite_diff.R)
 
