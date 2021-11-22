@@ -100,6 +100,17 @@ Finite differences and automatic differentiation.  [code sample](code/autograd/f
 ## DL Live Lecture 7 (week four)
 <2021-12-01 Wed 09:00-10:00>
 
+P10: [Hopfield networks](slides/hopfield.pdf)
+
+P11: [Boltzmann machines / RBMs / GANs](slides/rbm.pdf)
+
+P12: [Sequences](slides/sequences.pdf)
+
+P13: [Reinforcement learning](slides/rl.pdf)
+
+P14: [Unsupervised learning](slides/unsup.pdf)
+
+
 ## DL Live Lecture 8
 <2021-12-03 Fri 09:00-10:00>
 
