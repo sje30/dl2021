@@ -77,9 +77,11 @@ L3: code run through (backprop, keras)
 
 
 
-P8: Tips and tricks/ recent advances.
+[P8a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f0af10b-c3c9-41ad-80d5-ac740158bd37): [Tips and tricks / recent advances](slides/tips.pdf)
 
-P9: Convolutional neural networks (CNNs), images.
+[P8b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a665da6f-da9e-4d2f-9c64-ac74016cf442): Finite differences and automatic differentiation.
+
+[P9](): [Convolutional neural networks (CNNs), images](slides/images.pdf)
 
 ## DL Live Lecture 6
 <2021-11-26 Fri 09:00-10:00>
