@@ -50,7 +50,7 @@ Recap of perceptron rule.  [code/perceptron](code/perceptron).
 Backprop applications -- slides as before.
 
 [P6a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2c6d0cd4-edc9-4980-9c31-ac63015ec99b): Back prop derivation (part one).  [backprop.pdf](backprop.pdf)
-
+<br>
 [P6b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1f579de0-8eb8-428a-a626-ac630166eed8): Back prop derivation (part two).  [backprop.pdf](backprop.pdf)
 
 ## DL Live Lecture 4
