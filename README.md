@@ -56,10 +56,30 @@ Backprop applications -- slides as before.
 ## DL Live Lecture 4
 <2021-11-19 Fri 09:00-10:00>
 
-Short announcement by Soo.
+Short announcement by Soo.  Discussion: alternative error functions /
+maximisation functions (e.g. L2 regulariser, merit function).
+Notation for backprop.  Feature selection via circular weights.
+
+Discussion of assignment: two smaller ones, or one big one?  Answer on
+Wed.
 
 ## DL Live Lecture 5 (week three)
 <2021-11-24 Wed 09:00-10:00>
+
+L3: code run through (backprop, keras)
+
+
+[P7a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2f07a702-bd3c-4d62-8afe-ac6f00e2240f): [dimensionality reduction slides](slides/dimred.pdf)
+
+[P7b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6425e749-9b69-457f-b385-ac6300bc69e8): [Sammon mapping -- gradient descent](https://paperpile.com/app/p/f5e39a89-9dfd-0df1-a507-c1fc70b25f1a)
+
+[P7c](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0cab1524-c331-41c8-9706-ac6f00ef133e): [Colah's blog post on dimensionality reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+
+
+
+P8: Tips and tricks/ recent advances.
+
+P9: Convolutional neural networks (CNNs), images.
 
 ## DL Live Lecture 6
 <2021-11-26 Fri 09:00-10:00>
