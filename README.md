@@ -82,7 +82,7 @@ L3: code run through (backprop, keras)
 [P8b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a665da6f-da9e-4d2f-9c64-ac74016cf442):
 Finite differences and automatic differentiation.  [code sample](code/autograd/finite_diff.R)
 
-[P9](): [Convolutional neural networks (CNNs), images](slides/images.pdf)
+[P9](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c1b761a6-72eb-4072-bfc4-ac770156dc0d): [Convolutional neural networks (CNNs), images](slides/images.pdf)
 
 ## DL Live Lecture 6
 <2021-11-26 Fri 09:00-10:00>
