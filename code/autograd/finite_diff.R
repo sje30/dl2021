@@ -60,5 +60,5 @@ all.equal(y[2], g(x[1]))
 error = g(x[1]) - y[2]
 options(digits=16)
 print(error)
-f(x[1]) == y[2]  ## warning: too demanding??
+g(x[1]) == y[2]  ## Numerically demanding!
 
