@@ -70,9 +70,9 @@ L3: code run through (backprop, keras)
 
 
 [P7a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2f07a702-bd3c-4d62-8afe-ac6f00e2240f): [dimensionality reduction slides](slides/dimred.pdf)
-
+<br>
 [P7b](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6425e749-9b69-457f-b385-ac6300bc69e8): [Sammon mapping -- gradient descent](https://paperpile.com/app/p/f5e39a89-9dfd-0df1-a507-c1fc70b25f1a)
-
+<br>
 [P7c](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0cab1524-c331-41c8-9706-ac6f00ef133e): [Colah's blog post on dimensionality reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
 
