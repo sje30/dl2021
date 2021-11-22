@@ -14,7 +14,7 @@ Code taken from Chapter 3 of Deep learning with R.
 ```{r}
 library(keras)
 library(knitr)
-opts_chunk$set(cache = TRUE)
+opts_chunk$set(cache = FALSE)
 
 image0 = function(im, ...) {
   ## helper function to draw image the right way around.
@@ -94,7 +94,8 @@ Now we evaluate the test data
 metrics <- network %>% evaluate(test_images, test_labels)
 metrics
 
-network %>% predict_classes(test_images[1:10,])
+##network %>% predict_classes(test_images[1:10,])
+network %>% predict( test_images[1:10,]) %>% k_argmax()
 mnist$test$y[1:10]
 ```
 
@@ -144,7 +145,8 @@ Now we evaluate the test data
 metrics <- network2 %>% evaluate(test_images, test_labels)
 metrics
 
-network2 %>% predict_classes(test_images[1:10,])
+##network2 %>% predict_classes(test_images[1:10,])
+network2 %>% predict( test_images[1:10,]) %>% k_argmax()
 mnist$test$y[1:10]
 ```
 
@@ -159,3 +161,4 @@ To compile this document
 ```{r eval=FALSE}
 rmarkdown::render('mnist_bp.Rmd')
 ```
+
