@@ -66,7 +66,13 @@ Wed.
 ## DL Live Lecture 5 (week three)
 <2021-11-24 Wed 09:00-10:00>
 
-L3: code run through (backprop, keras)
+L3: overview of topics this week
+Dimensionality reduction
+Tips and tricks / recent advances
+Images
+[XOR in R](code/mlp/xor.R)
+[MNIST in Keras](code/mlp/mnist_bp.Rmd) -- on [subliminal](https://subliminal.maths.cam.ac.uk).
+
 
 
 [P7a](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2f07a702-bd3c-4d62-8afe-ac6f00e2240f): [dimensionality reduction slides](slides/dimred.pdf)
