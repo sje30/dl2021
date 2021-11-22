@@ -66,10 +66,10 @@ Wed.
 ## DL Live Lecture 5 (week three)
 <2021-11-24 Wed 09:00-10:00>
 
-L3: overview of topics this week
-Dimensionality reduction
-Tips and tricks / recent advances
-Images
+L3: overview of topics this week\
+Dimensionality reduction\
+Tips and tricks / recent advances\
+Convolutional networks, images\
 [XOR in R](code/mlp/xor.R)
 [MNIST in Keras](code/mlp/mnist_bp.Rmd) -- on [subliminal](https://subliminal.maths.cam.ac.uk).
 
