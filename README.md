@@ -7,6 +7,7 @@
 
 # Assignments
 
+One assignment to be set for end of term, due in at start of Lent Term.
 
 # Planned timetable
 
@@ -70,8 +71,10 @@ L3: overview of topics this week\
 Dimensionality reduction\
 Tips and tricks / recent advances\
 Convolutional networks, images\
-[XOR in R](code/mlp/xor.R)
-[MNIST in Keras](code/mlp/mnist_bp.Rmd) -- on [subliminal](https://subliminal.maths.cam.ac.uk).
+[XOR in R](code/mlp/xor.R)\
+[MNIST in Keras](code/mlp/mnist_bp.Rmd) -- on [subliminal](https://subliminal.maths.cam.ac.uk).\
+[A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
+[colab](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr)
 
 
 
