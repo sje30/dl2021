@@ -100,7 +100,7 @@ Finite differences and automatic differentiation.  [code sample](code/autograd/f
 ## DL Live Lecture 7 (week four)
 <2021-12-01 Wed 09:00-10:00>
 
-[P10](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450ef521-a3a2-4d60-bb67-ac79015c17ec): [Hopfield networks](slides/hopfield.pdf)
+[P10](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450ef521-a3a2-4d60-bb67-ac79015c17ec): [Hopfield networks](slides/hopfield.pdf)\
 [supplementary Hopfield](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b8a9360-4a1f-436b-90c1-ac6300c76f02)
 
 [P11](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7d8dbcbc-59f8-446f-9626-ac7a01508a95): [Boltzmann machines / RBMs / GANs](slides/rbm.pdf)
