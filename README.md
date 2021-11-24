@@ -22,7 +22,9 @@ material presented (and will not be recorded).
 
 Lecture videos are found on [panopto](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=9b86eca2-9001-47e0-91c1-adb00100d53f).
 
-[pre-recorded](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=1f01e085-4e06-439b-a0a6-addb013e09e2)
+[live lectures](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=9b86eca2-9001-47e0-91c1-adb00100d53f)\
+[pre-recorded lectures](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=1f01e085-4e06-439b-a0a6-addb013e09e2)
+
 ## DL Live Lecture 1 (week one)
 <2021-11-10 Wed 09:00-10:00>
 
