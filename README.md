@@ -98,6 +98,7 @@ Finite differences and automatic differentiation.  [code sample](code/autograd/f
 ## DL Live Lecture 6
 <2021-11-26 Fri 09:00-10:00>
 
+Backpropagation questions on theory and applications.
 
 ## DL Live Lecture 7 (week four)
 <2021-12-01 Wed 09:00-10:00>
