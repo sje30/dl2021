@@ -103,6 +103,34 @@ Backpropagation questions on theory and applications.
 ## DL Live Lecture 7 (week four)
 <2021-12-01 Wed 09:00-10:00>
 
+
+- Questions on last weeks material.
+
+- Summary of topics for this week.
+
+- Future directions (not covered here): GPT3 / Transformers, Graph
+  neural networks [1](https://distill.pub/2021/gnn-intro/) [2](https://distill.pub/2021/understanding-gnns/)
+  
+
+### Concerns
+
+
+- reproducibility  concerns [1](https://paperpile.com/app/p/62f647f8-4270-0c0e-951c-26edb825af9c)
+  
+- Interpretability problems of networks.
+
+- Ethics: structural biases in decisions / training data
+
+- e.g. [Concerns over face
+  recognition](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)
+  biasing different races.
+
+- "Deep fakes".
+
+- Environmental impact (energy) [1](https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/)
+
+- Resources for companies (large scale training)
+
 [P10](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450ef521-a3a2-4d60-bb67-ac79015c17ec): [Hopfield networks](slides/hopfield.pdf)\
 [supplementary Hopfield](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b8a9360-4a1f-436b-90c1-ac6300c76f02)
 
@@ -118,4 +146,8 @@ Backpropagation questions on theory and applications.
 ## DL Live Lecture 8
 <2021-12-03 Fri 09:00-10:00>
 
+Discussion of work and assignment 1.
+
+
+## Assignment one
 
