@@ -151,3 +151,4 @@ Discussion of work and assignment 1.
 
 ## Assignment one
 
+[Assignment 1](dla1_2021.pdf)
