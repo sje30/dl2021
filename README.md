@@ -120,8 +120,7 @@ Backpropagation questions on theory and applications.
 - Interpretability problems of networks.
 
 - Ethics: structural biases in decisions / training data
-
-- e.g. [Concerns over face
+  e.g. [Concerns over face
   recognition](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)
   biasing different races.
 
