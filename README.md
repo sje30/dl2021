@@ -126,7 +126,8 @@ Backpropagation questions on theory and applications.
   recognition](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)
   biasing different races.
 
-- "Deep fakes".
+- "Deep
+  fakes". [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/) [https://thisartworkdoesnotexist.com/](https://thisartworkdoesnotexist.com/)
 
 - Environmental impact (energy) [1](https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/)
 
