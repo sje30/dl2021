@@ -108,8 +108,10 @@ Backpropagation questions on theory and applications.
 
 - Summary of topics for this week.
 
-- Future directions (not covered here): GPT3 / Transformers, Graph
-  neural networks [1](https://distill.pub/2021/gnn-intro/) [2](https://distill.pub/2021/understanding-gnns/)
+- Future directions (not covered here): GPT3 / Transformers
+  [1](https://arxiv.org/abs/1706.03762), Graph neural networks
+  [1](https://distill.pub/2021/gnn-intro/)
+  [2](https://distill.pub/2021/understanding-gnns/)
   
 
 ### Concerns
