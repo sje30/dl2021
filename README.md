@@ -103,6 +103,7 @@ Backpropagation questions on theory and applications.
 ## DL Live Lecture 7 (week four)
 <2021-12-01 Wed 09:00-10:00>
 
+[L4](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13034cb5-4acc-4a19-b4fd-adf100a56eae)
 
 - Questions on last weeks material.
 
